@@ -8,7 +8,7 @@
 <days>3</days>
 <timeslot_duration>00:15</timeslot_duration>
 </conference>
-<day date="2019-05-24" index="1">
+<day date="2019-05-24" start="2019-05-24T11:30:00+02:00" end="2019-05-24T11:30:00+02:00" index="1">
 <room name="Saal (Main Hall)">
 <event guid="las4wWdhvRQ8OBVwjCJf-w" id="2522">
 <date>2019-05-24T11:30:00+02:00</date>
@@ -38,6 +38,9 @@ As this is not only about a company and a community per se but a lot more primar
 <persons>
 <person id="11982">Thomas Di Giacomo</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="Eu2yo4xUC2tgOtUDYTsEDA" id="2255">
 <date>2019-05-24T12:00:00+02:00</date>
@@ -59,6 +62,9 @@ As this is not only about a company and a community per se but a lot more primar
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="bnMU4yb96NUGvWJ7NTyFbw" id="2258">
 <date>2019-05-24T12:15:00+02:00</date>
@@ -80,6 +86,9 @@ As this is not only about a company and a community per se but a lot more primar
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="7_nXG696JFYWmpcdiNjxjg" id="2429">
 <date>2019-05-24T12:45:00+02:00</date>
@@ -126,6 +135,9 @@ http://eosdesignsystem.com</description>
 <person id="853">csanchez@suse.de</person>
 <person id="22376">Jesus Herman-Marina</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="6Vz-zO0BBM9WondOan6bJw" id="2480">
 <date>2019-05-24T13:15:00+02:00</date>
@@ -155,6 +167,9 @@ How do these two package managers compare? Are they more similar than different?
 <persons>
 <person id="11132">Neal Gompa</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="IvBZOa9uoXagwKyAqjiVkw" id="2534">
 <date>2019-05-24T15:00:00+02:00</date>
@@ -176,6 +191,9 @@ How do these two package managers compare? Are they more similar than different?
 <persons>
 <person id="11424">favogt</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="drBsJm1OspmodxlcUlVZoA" id="2528">
 <date>2019-05-24T15:30:00+02:00</date>
@@ -217,6 +235,9 @@ Finally the kubictl Kubernetes cluster boostrapping tool will be discussed and s
 <persons>
 <person id="7112">Richard Brown</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="7_UawP-ER0fSbXRipXqR-g" id="2456">
 <date>2019-05-24T16:30:00+02:00</date>
@@ -278,6 +299,9 @@ Kubernetes The Hard Way outlines::
 <persons>
 <person id="18588">Masayuki Igawa</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="FYZNn_oSKwNj28O6WUViuw" id="2531">
 <date>2019-05-24T17:00:00+02:00</date>
@@ -327,6 +351,9 @@ Various ideas will be discussed, prototypes will be shown, and feedback will be 
 <persons>
 <person id="7112">Richard Brown</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="JT03r0-bwd2t4iKNoCLBVg" id="2444">
 <date>2019-05-24T17:45:00+02:00</date>
@@ -348,6 +375,9 @@ Various ideas will be discussed, prototypes will be shown, and feedback will be 
 <persons>
 <person id="6880">Ish Sookun</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="XUovULBhNMilNEB3Jj5YuA" id="2468">
 <date>2019-05-24T18:45:00+02:00</date>
@@ -375,6 +405,9 @@ We would see couple of examples for Openstack and Vagrant to run such clusters f
 <persons>
 <person id="12032">Denis Kondratenko</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="gdfI-Glbwx3op1MmYFwC9A" id="2393">
 <date>2019-05-24T19:15:00+02:00</date>
@@ -414,6 +447,9 @@ Participant can learn SDS strategy on Kubernetes with OpenSDS. and How to build 
 <persons>
 <person id="18542">hashimotosyuta</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Seminarraum 1">
@@ -495,6 +531,9 @@ If the audiences are interested in the idea, the HCL needs more people to become
 <persons>
 <person id="21791">Joshsi</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="B7CBSq7u1UrdIoJSOaMcUQ" id="2435">
 <date>2019-05-24T15:30:00+02:00</date>
@@ -536,6 +575,9 @@ For this talk no prior knowledge about the topic is required and/or expected. An
 <persons>
 <person id="22160">Karol Babioch</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="bmP7L6IcODD0pR1J8n-A-A" id="2492">
 <date>2019-05-24T16:30:00+02:00</date>
@@ -559,6 +601,9 @@ This talk shows the current state, explains how to contribute and also gives som
 <persons>
 <person id="11956">Wolfgang Engel</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="VYFvdxaeH_SfczvkUMPjMw" id="2465">
 <date>2019-05-24T17:00:00+02:00</date>
@@ -588,6 +633,9 @@ Another topic is our challenge: editing the magazine on openSUSE. Thereby, we ca
 <persons>
 <person id="1670">Fuminobu  Takeyama</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="cp8jUfTm9BjicPO2BYu7ZQ" id="2513">
 <date>2019-05-24T17:45:00+02:00</date>
@@ -621,6 +669,9 @@ Having the GNU Health Federation in openSUSE (available both for Tumbleweed and 
 <persons>
 <person id="19513">Luis Falcon</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="IEyjOV2OETpd153wvMALIA" id="2501">
 <date>2019-05-24T19:15:00+02:00</date>
@@ -644,6 +695,9 @@ This talk  will give a overview of the changes already done and still planned an
 <persons>
 <person id="22169">Florian Festi</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Seminarraum 2">
@@ -705,6 +759,9 @@ IMPORTANT: Bring your GPG key and an official document that helps people identif
 <persons>
 <person id="17404">SLindoMansilla</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Hacker Room">
@@ -731,10 +788,13 @@ IMPORTANT: Bring your GPG key and an official document that helps people identif
 <person id="12016">Ana Maria Martinez Gomez</person>
 <person id="12268">bgeuken</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 </day>
-<day date="2019-05-25" index="2">
+<day date="2019-05-25" start="2019-05-25T11:30:00+02:00" end="2019-05-25T11:30:00+02:00" index="2">
 <room name="Saal (Main Hall)">
 <event guid="NAQt_FuX-N5n1uFv8nUcUA" id="2261">
 <date>2019-05-25T11:30:00+02:00</date>
@@ -756,6 +816,9 @@ IMPORTANT: Bring your GPG key and an official document that helps people identif
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="csrcGQ7hEYgCTrb3f58vSQ" id="2555">
 <date>2019-05-25T12:00:00+02:00</date>
@@ -783,6 +846,9 @@ Thomas Graf is Co-Founder &amp; CTO at Isovalent and creator of the Cilium proje
 <persons>
 <person id="22358">tgraf</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="W1PdrH0zlNpL1dKwmW1KLg" id="2351">
 <date>2019-05-25T13:00:00+02:00</date>
@@ -804,6 +870,9 @@ Thomas Graf is Co-Founder &amp; CTO at Isovalent and creator of the Cilium proje
 <persons>
 <person id="11240">Guillaume Gardet</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="mWKUN7nGXvyiGK9jC3zBVw" id="2498">
 <date>2019-05-25T13:45:00+02:00</date>
@@ -829,6 +898,9 @@ Hope through my experience of use Kubic can share it for people who want to join
 <persons>
 <person id="22175">kimlin</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="8xulM32JRt4IMza2mCbdtQ" id="2537">
 <date>2019-05-25T14:00:00+02:00</date>
@@ -862,6 +934,9 @@ transactional-update is the default update mechanism on openSUSE Kubic and when 
 <persons>
 <person id="20149">Ignaz Forster</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="xO0S5vz0kq5ATcAd2Y-0aw" id="2345">
 <date>2019-05-25T15:00:00+02:00</date>
@@ -883,6 +958,9 @@ transactional-update is the default update mechanism on openSUSE Kubic and when 
 <persons>
 <person id="813">Andreas Färber</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="3cC2qVMvq6bZ76LgeVzM-A" id="2570">
 <date>2019-05-25T15:45:00+02:00</date>
@@ -910,6 +988,9 @@ YOU CAN CONTRIBUTE TO THAT EFFORT!</description>
 <person id="22439">FSzekely</person>
 <person id="22577">timirnich</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="UXkaWhL6nt_30m-UEalVMQ" id="2432">
 <date>2019-05-25T16:00:00+02:00</date>
@@ -951,6 +1032,9 @@ The agenda of the presentation:
 <persons>
 <person id="22154">pingou</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="N7AvGCS9c4IOGEHCNEGeqA" id="2486">
 <date>2019-05-25T17:00:00+02:00</date>
@@ -978,6 +1062,9 @@ This talk will look over the past Leap 15.0 kernel  and the ongoing Leap 15.1 ke
 <persons>
 <person id="11796">Takashi Iwai</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="V5TLukgwdAbRwzDYdJDPMg" id="2396">
 <date>2019-05-25T17:30:00+02:00</date>
@@ -1007,6 +1094,9 @@ Slides are available on https://okurz.github.io/osc19-testing/#/</description>
 <persons>
 <person id="11814">Oliver Kurz</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="jot9JzhThXaI-bg4lHKeIQ" id="2507">
 <date>2019-05-25T18:00:00+02:00</date>
@@ -1046,6 +1136,9 @@ As the SUSE security team has grown in the last year, we also increased our work
 <persons>
 <person id="744">Marcus Meissner</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="WzRXtiBsGbwE-rCfz2fqjQ" id="2423">
 <date>2019-05-25T19:00:00+02:00</date>
@@ -1133,6 +1226,9 @@ all speakers.
 <persons>
 <person id="7218">Christian Boltz</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="vG8OqTHkxDp1kqiQM47SFw" id="2252">
 <date>2019-05-25T20:15:00+02:00</date>
@@ -1154,6 +1250,9 @@ all speakers.
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="hqZVR77XxcJuCKSiTX4J4g" id="2606">
 <date>2019-05-25T20:30:00+02:00</date>
@@ -1175,6 +1274,9 @@ all speakers.
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Seminarraum 1">
@@ -1202,6 +1304,9 @@ This workshop is intended to give you the ability to setup kanku on your laptop 
 <persons>
 <person id="11602">Frank Schreiner</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="uaiNseDOoKScRGxUGmZcAg" id="2399">
 <date>2019-05-25T15:00:00+02:00</date>
@@ -1243,6 +1348,9 @@ https://raw.githubusercontent.com/bmwiedemann/reproducibleopensuse/devel/howtode
 <persons>
 <person id="138">Bernhard M.</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="4EejVlhJntO8KmtD00SdiQ" id="2438">
 <date>2019-05-25T17:00:00+02:00</date>
@@ -1336,6 +1444,9 @@ For this talk basic Linux knowledge will be required. You don't need to be a ful
 <persons>
 <person id="22160">Karol Babioch</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Seminarraum 2">
@@ -1379,6 +1490,9 @@ Anyone is welcome to join, basic knowledge of Ruby on Rails, HTML, CSS
 <persons>
 <person id="20320">Alexander Graul</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="zw8ug3MdBkptNy44FySmFg" id="2540">
 <date>2019-05-25T15:00:00+02:00</date>
@@ -1440,6 +1554,9 @@ This will also cover some advanced topics like:
 <persons>
 <person id="12838">Marco Strigl</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="p1MmiHzdLHI7CjNqyQi5Hg" id="2567">
 <date>2019-05-25T18:00:00+02:00</date>
@@ -1466,6 +1583,9 @@ FRAMEWORKS LEVERAGING JUPITER NOTEBOOKS.</description>
 <person id="15526">Marco Varlese</person>
 <person id="22418">Alessandro Festa</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Galerie">
@@ -1505,6 +1625,9 @@ This talk will explain our methodology and our reasoning that we followed to ach
 <persons>
 <person id="22172">Patrick Fitzgerald</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="caBUDXeLXE4J3RhUXoULhQ" id="2390">
 <date>2019-05-25T15:00:00+02:00</date>
@@ -1526,6 +1649,9 @@ This talk will explain our methodology and our reasoning that we followed to ach
 <persons>
 <person id="7130">Klaus Kämpf</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="-TfWXwLFMvJx2yy1UQ6iTg" id="2450">
 <date>2019-05-25T16:00:00+02:00</date>
@@ -1547,6 +1673,9 @@ This talk will explain our methodology and our reasoning that we followed to ach
 <persons>
 <person id="878">Daniel Maslowski</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="G-fbiDSrJ6ifAOEPW1PmZA" id="2357">
 <date>2019-05-25T17:00:00+02:00</date>
@@ -1576,6 +1705,9 @@ SaltStack is a tool used to manage configuration and provisioning of machines, a
 <persons>
 <person id="4">Alberto Planas</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="B7oXBmGX9R-A-86GuvS6YQ" id="2519">
 <date>2019-05-25T18:00:00+02:00</date>
@@ -1613,10 +1745,13 @@ Don't miss this talk and take advantage of knowing all the improvements that can
 <persons>
 <person id="15874">David Kang</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 </day>
-<day date="2019-05-26" index="3">
+<day date="2019-05-26" start="2019-05-26T11:30:00+02:00" end="2019-05-26T11:30:00+02:00" index="3">
 <room name="Saal (Main Hall)">
 <event guid="iRKZPL9pTcPMwU0t4l883w" id="2264">
 <date>2019-05-26T11:30:00+02:00</date>
@@ -1638,6 +1773,9 @@ Don't miss this talk and take advantage of knowing all the improvements that can
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="a7hHbtzQv9BpGrrF0B_HGQ" id="2372">
 <date>2019-05-26T12:00:00+02:00</date>
@@ -1665,6 +1803,9 @@ It's targeting application developers and distribution developers, as this are t
 <persons>
 <person id="11710">Thorsten Kukuk</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="xeLK3Ot8S1TKYGID6y2eIQ" id="2237">
 <date>2019-05-26T13:00:00+02:00</date>
@@ -1688,6 +1829,9 @@ If you want to learn what's new in Nautilus and also learn about new features wi
 <persons>
 <person id="20143">Kai Wagner</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="xEWoNyjCI4ExTDHTer-QWw" id="2219">
 <date>2019-05-26T13:45:00+02:00</date>
@@ -1723,6 +1867,9 @@ Join the talk to hear more!</description>
 <persons>
 <person id="16804">FrankKarlitschek</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="Fr3C_NhVihzg-YFJoESUxw" id="2378">
 <date>2019-05-26T15:00:00+02:00</date>
@@ -1748,6 +1895,9 @@ After that, everybody is welcome to ask questions, give feedback, make suggestio
 <persons>
 <person id="2382">Douglas DeMaio</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="lzk3pJgMkSKPXG8vHMiwjg" id="2282">
 <date>2019-05-26T16:00:00+02:00</date>
@@ -1775,6 +1925,9 @@ In this talk I will take a look at some FUD, and share some thoughts about answe
 <persons>
 <person id="10068">Axel Braun</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="-CVvXbWXJE9qM7F5NaSGGQ" id="2525">
 <date>2019-05-26T16:45:00+02:00</date>
@@ -1820,6 +1973,9 @@ project, including:
 <persons>
 <person id="22184">Colleen Murphy</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 <room name="Galerie">
@@ -1847,6 +2003,9 @@ With Rust we've taken different approach: we've designed prototype in Fedora and
 <persons>
 <person id="22157">Igor Gnatenko</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="OB5O-mYv6r9yEGLa77x8nw" id="2336">
 <date>2019-05-26T13:00:00+02:00</date>
@@ -1868,6 +2027,9 @@ With Rust we've taken different approach: we've designed prototype in Fedora and
 <persons>
 <person id="20191">Stasiek Michalski</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="tcqG0x1tb0cojdtR4-QsFw" id="2405">
 <date>2019-05-26T13:45:00+02:00</date>
@@ -1897,6 +2059,9 @@ Awareness of Linux, and FOSS is spread largely by word of mouth, using grass roo
 <persons>
 <person id="51">Redon Skikuli</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 <event guid="dVYz0GFKsKPfIUQDmTJmqQ" id="2240">
 <date>2019-05-26T16:00:00+02:00</date>
@@ -1926,6 +2091,9 @@ The talk will give some additional information about the secure base configurati
 <persons>
 <person id="21938">stroeder</person>
 </persons>
+<links>
+<link href="???">Douglas DeMaio</link>
+</links>
 </event>
 </room>
 </day>
